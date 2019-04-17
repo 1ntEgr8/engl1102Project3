@@ -16,6 +16,19 @@ h1 {
     padding: 0;
 }
 
+h2 {
+    font-family: "Roboto Slab";
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-family: "Roboto Slab";
+    margin: 0;
+    padding: 0;
+}
+
+
 span {
     color: white;
 }
