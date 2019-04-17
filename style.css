@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-.header, .body, .slideshow, .gallery{
+.header, .body, .slideshow{
     padding: 1rem 20rem 0rem 20rem;
 }
 
@@ -77,6 +77,7 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 2rem;
 }
 
 .book {
